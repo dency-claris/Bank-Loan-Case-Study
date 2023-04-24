@@ -29,8 +29,7 @@ In other words, the company wants to understand the driving factors (or driver v
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough).
 ## Data Understanding ##
-Download the dataset from the link below.
-
+Download the dataset from the link below.   
 https://drive.google.com/drive/folders/1Mcvc5tJGvgJK8UetCtY1VnMYoVOMzaAe
 
 This dataset has 3 files as explained below:
